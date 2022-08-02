@@ -1,5 +1,5 @@
 {% set name = "country_converter" %}
-{% set version = "0.7.4" %}
+{% set version = "0.7.5" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/country_converter-{{ version }}.tar.gz
-  sha256: 0291cc91c4a4efe7f128a11c8c6e4cb761f7fea7cde2517f8677c7c56da334d3
+  sha256: 023249ebd29b9d8ae14de64537e805c4ce00aaacf6bddf49bad7d99f13981646
 
 build:
   number: 0
