@@ -3,15 +3,15 @@ About country_converter-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/country_converter-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/konstantinstadler/country_converter
+Home: https://github.com/IndEcol/country_converter
 
 Package license: GPL-3.0-or-later
 
 Summary: The country converter (coco) - a Python package for converting country names between different classifications schemes.
 
-Development: https://github.com/konstantinstadler/country_converter/blob/master/CONTRIBUTING.rst
+Development: https://github.com/IndEcol/country_converter/blob/master/CONTRIBUTING.rst
 
-Documentation: https://github.com/konstantinstadler/country_converter
+Documentation: https://github.com/IndEcol/country_converter
 
 The country converter (coco) is a Python package to convert and match
 country names between different classifications and between different
