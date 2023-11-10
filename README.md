@@ -9,7 +9,7 @@ Package license: GPL-3.0-or-later
 
 Summary: The country converter (coco) - a Python package for converting country names between different classifications schemes.
 
-Development: https://github.com/IndEcol/country_converter/blob/master/CONTRIBUTING.rst
+Development: https://github.com/IndEcol/country_converter/blob/master/CONTRIBUTING.md
 
 Documentation: https://github.com/IndEcol/country_converter
 
