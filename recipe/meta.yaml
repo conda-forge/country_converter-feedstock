@@ -7,7 +7,7 @@ package:
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/country_converter-{{ version }}.tar.gz
+  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/country_converter-{{ version }}.tar.gz
   sha256: 74e87db54b91eda56c5eecc9e36e1b5ca79ca2bca58012ecc4f55ef8a13a6631
 
 build:
@@ -20,10 +20,11 @@ build:
 requirements:
   host:
     - pip
-    - python >=3.7
+    - setuptools
+    - python {{ python_min }}
   run:
     - pandas >=1.0.0
-    - python >=3.7
+    - python >={{ python_min }}
 
 test:
   imports:
@@ -32,6 +33,7 @@ test:
     - pip check
     - coco --help
   requires:
+    - python {{ python_min }}
     - pip
 
 about:
