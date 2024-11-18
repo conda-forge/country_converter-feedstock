@@ -11,7 +11,7 @@ source:
   sha256: 74e87db54b91eda56c5eecc9e36e1b5ca79ca2bca58012ecc4f55ef8a13a6631
 
 build:
-  number: 1
+  number: 0
   noarch: python
   entry_points:
     - coco = country_converter.country_converter:main
