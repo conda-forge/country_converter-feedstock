@@ -38,7 +38,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-country_converter-green.svg)](https://anaconda.org/conda-forge/country_converter) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/country_converter.svg)](https://anaconda.org/conda-forge/country_converter) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/country_converter.svg)](https://anaconda.org/conda-forge/country_converter) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/country_converter.svg)](https://anaconda.org/conda-forge/country_converter) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-country__converter-green.svg)](https://anaconda.org/conda-forge/country_converter) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/country_converter.svg)](https://anaconda.org/conda-forge/country_converter) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/country_converter.svg)](https://anaconda.org/conda-forge/country_converter) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/country_converter.svg)](https://anaconda.org/conda-forge/country_converter) |
 
 Installing country_converter
 ============================
